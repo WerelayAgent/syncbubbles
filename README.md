@@ -35,7 +35,7 @@
 | **Ecosystem** | Solana / Multi-Chain |
 | **Telegram Channel** | [`@syncbubbles_main`](https://t.me/syncbubbles_main) |
 | **Telegram Bot** | [`@SyncBubblesBot`](https://t.me/SyncBubblesBot) |
-| **X (Twitter)** | [`@syncbubbles_portal`](https://x.com/syncbubbles_portal) |
+| **X (Twitter)** | [`@syncbubbles`](https://x.com/syncbubbles) |
 | **Support** | `support@syncbubbles.io` |
 
 ---
