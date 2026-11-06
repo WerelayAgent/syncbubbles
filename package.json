@@ -6,8 +6,7 @@
   "scripts": {
     "start": "python serve.py",
     "dev": "python serve.py",
-    "serve": "npx serve -s . -l 3000",
-    "build": "echo \"Static build ready\""
+    "serve": "npx serve -s . -l 3000"
   },
   "keywords": [
     "syncbubbles",
