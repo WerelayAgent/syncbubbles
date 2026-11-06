@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C_s2cVnS.js";import{t}from"./react-CVLLG9Nl.js";var n=e(t(),1),r={signedIn:!1,userId:null},i=new Set;function a(e){if(e.signedIn!==r.signedIn||e.userId!==r.userId){r=e;for(let e of[...i])e()}}var o=()=>r;function s(){return(0,n.useSyncExternalStore)(e=>(i.add(e),()=>{i.delete(e)}),()=>r.signedIn,()=>!1)}export{a as n,s as r,o as t};
